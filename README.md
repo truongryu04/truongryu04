@@ -53,13 +53,12 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongryu04&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=3600" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongryu04&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongryu04&theme=github_dark" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=truongryu04&theme=vue-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truongryu04&theme=github_dark" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongryu04&theme=github_dark&utcOffset=7" />
 
 </div>
 
@@ -89,9 +88,11 @@
 
 ## 💡 Dev Mindset
 
-> *"First, solve the problem. Then, write the code."*
+<div align="center">
 
----
+> "First, solve the problem. Then, write the code."
+
+</div>
 
 ## 🎮 Fun Zone
 
