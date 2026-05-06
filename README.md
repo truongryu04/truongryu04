@@ -53,13 +53,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=truongryu04&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongryu04&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=3600" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongryu04&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=3600" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongryu04&layout=compact&theme=vue-dark&hide_border=true" />
+  <br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=truongryu04&theme=vue-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=truongryu04&theme=vue-dark&hide_border=true" />
 
 </div>
 
